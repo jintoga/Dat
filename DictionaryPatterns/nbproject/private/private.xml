@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/DictionaryPatterns/src/Delegation/HelpAddNewWord.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Decorator/AsteriskWordDecorator.java</file>
+            <file>file:/H:/DictionaryPatterns/src/models/Dictionary.java</file>
+            <file>file:/H:/DictionaryPatterns/src/models/Word.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Decorator/WordDecorator.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Composite/Composite.java</file>
+            <file>file:/H:/DictionaryPatterns/src/models/Language.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Delegation/AddWord.java</file>
+            <file>file:/H:/DictionaryPatterns/src/models/Main.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Composite/Component.java</file>
+            <file>file:/H:/DictionaryPatterns/src/Composite/Leaf.java</file>
+        </group>
+    </open-files>
+</project-private>
