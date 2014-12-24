@@ -4,11 +4,8 @@
  */
 package models;
 
-import Composite.Composite;
-import Composite.Leaf;
-import Decorator.AsteriskWordDecorator;
-import Delegation.AddWord;
-import Delegation.HelpAddNewWord;
+import CompositePattern.Composite;
+import CompositePattern.Leaf;
 
 /**
  *
@@ -51,7 +48,13 @@ public class Main {
         dictionary.addComponent(russian);
         dictionary.addComponent(english);
         System.out.println(dictionary.defaultMethod());
-        russian.removeComponent(kura);
+        //russian.removeComponent(kura);
         System.out.println(dictionary.defaultMethod());
+
+        for (IteratorPattern.Iterator iter = english.getIterator(); iter.hasNext();) {
+
+            System.out.println("Elem " + iter.getIndex() + ": " + iter.next());
+        }
+
     }
 }

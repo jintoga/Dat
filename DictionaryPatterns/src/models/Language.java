@@ -4,7 +4,7 @@
  */
 package models;
 
-import Delegation.AddWord;
+import DelegationPattern.AddWord;
 import java.util.ArrayList;
 
 /**
